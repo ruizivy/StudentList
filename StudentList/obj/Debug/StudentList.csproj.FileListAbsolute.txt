@@ -1,0 +1,10 @@
+C:\Users\Ivy\Documents\Visual Studio 2019\Projects\StudentList\StudentList\bin\Debug\StudentList.exe.config
+C:\Users\Ivy\Documents\Visual Studio 2019\Projects\StudentList\StudentList\bin\Debug\StudentList.exe
+C:\Users\Ivy\Documents\Visual Studio 2019\Projects\StudentList\StudentList\bin\Debug\StudentList.pdb
+C:\Users\Ivy\Documents\Visual Studio 2019\Projects\StudentList\StudentList\obj\Debug\StudentList.csprojAssemblyReference.cache
+C:\Users\Ivy\Documents\Visual Studio 2019\Projects\StudentList\StudentList\obj\Debug\StudentList.frmStudent.resources
+C:\Users\Ivy\Documents\Visual Studio 2019\Projects\StudentList\StudentList\obj\Debug\StudentList.Properties.Resources.resources
+C:\Users\Ivy\Documents\Visual Studio 2019\Projects\StudentList\StudentList\obj\Debug\StudentList.csproj.GenerateResource.cache
+C:\Users\Ivy\Documents\Visual Studio 2019\Projects\StudentList\StudentList\obj\Debug\StudentList.csproj.CoreCompileInputs.cache
+C:\Users\Ivy\Documents\Visual Studio 2019\Projects\StudentList\StudentList\obj\Debug\StudentList.exe
+C:\Users\Ivy\Documents\Visual Studio 2019\Projects\StudentList\StudentList\obj\Debug\StudentList.pdb
